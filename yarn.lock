@@ -60,10 +60,10 @@
   dependencies:
     defer-to-connect "^1.0.1"
 
-"@types/async@^3.2.5":
-  version "3.2.5"
-  resolved "https://registry.yarnpkg.com/@types/async/-/async-3.2.5.tgz#febca3166039b8946eb162a14a91e8de9a373ebc"
-  integrity sha512-fdtHUdfIxSfU6crUgUOEb6vxdquAOa75bh1sQVL/ePkmQDNo8Aj1056eGGI9cPls5tLRhnAyfoXljEk+hmhbxg==
+"@types/async@^3.2.11":
+  version "3.2.11"
+  resolved "https://registry.yarnpkg.com/@types/async/-/async-3.2.11.tgz#72a23be0c678cd227f1777b650ecf21f325f1824"
+  integrity sha512-o+JfsXfUk/JAZTJZjZcovBvpEiu9wM1+tH5E9YiQztFyCessks/e3K06OasRlgKpkh698tbx4C982Te5KcQqKA==
 
 "@types/caseless@*":
   version "0.12.2"
